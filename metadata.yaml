@@ -1,0 +1,35 @@
+_repo: The-English-Gipsies-and-Their-Language_16358
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leland, Charles Godfrey
+    aliases:
+    - Breitman, Hans
+    - Breitmann, Hans
+    - Leland, Charles G.
+    birthdate: 1824
+    deathdate: 1903
+    gutenberg_agent_id: '243'
+    url: http://www.gutenberg.org/2009/agents/243
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Godfrey_Leland
+description: ''
+gutenberg_bookshelf: Language Education
+gutenberg_issued: '2005-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16358'
+  lccn: '75309793'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romanies -- England'
+- !lcc 'DX'
+- !lcsh 'English language -- Slang'
+- !lcsh 'Romani language'
+title: The English Gipsies and Their Language
+url: http://www.gutenberg.org/ebooks/16358
