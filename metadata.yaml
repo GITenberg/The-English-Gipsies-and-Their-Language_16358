@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/243
     wikipedia: http://en.wikipedia.org/wiki/Charles_Godfrey_Leland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16358#The-English-Gipsies-and-Their-Language
 gutenberg_bookshelf: Language Education
 gutenberg_issued: '2005-07-25'
 gutenberg_type: Text
